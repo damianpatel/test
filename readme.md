@@ -2,6 +2,4 @@
 
 # Hi
 
-# hello
-
 # shared
